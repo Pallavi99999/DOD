@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">DOD</string>
+    <string name="register">Register</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="already_registered_login_here">Already Registered? Login Here</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an Account? Register Here</string>
+    <string name="welcome">Welcome</string>
+    <string name="gender">Gender</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="track_calorie">Track Calorie</string>
+
+    <string-array name="gender_select">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="active_select">
+        <item>Active</item>
+        <item>Moderately Active</item>
+        <item>Sedentary</item>
+    </string-array>
+
+    <string-array name="height_select">
+        <item>4ft 10"</item>
+        <item>4ft 11"</item>
+        <item>5ft</item>
+        <item>5ft 1"</item>
+        <item>5ft 2"</item>
+        <item>5ft 3"</item>
+        <item>5ft 4"</item>
+        <item>5ft 5"</item>
+        <item>5ft 6"</item>
+        <item>5ft 7"</item>
+        <item>5ft 8"</item>
+        <item>5ft 9"</item>
+        <item>5ft 10"</item>
+        <item>5ft 11"</item>
+        <item>6ft</item>
+        <item>6ft 1"</item>
+        <item>6ft 2"</item>
+        <item>6ft 3"</item>
+        <item>6ft 4"</item>
+    </string-array>
+</resources>
